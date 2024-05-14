@@ -1,5 +1,5 @@
-create database avaliacao_22c;
-use avaliacao_22c;
+create database avaliacao_22a;
+use avaliacao_22a;
 
 CREATE TABLE Livros (
     id INT AUTO_INCREMENT PRIMARY KEY,
